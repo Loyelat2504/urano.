@@ -1,0 +1,472 @@
+*{ 
+    margin: 0;
+}
+.nav-sec {
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    height: 48px; 
+    /* margin: 50px 15.5rem 50px;
+    padding-right: 14.5rem;   */
+    padding: 57px 0rem 59px 13rem;
+}
+.img-dark {
+    width: 100px;
+    height: 16px;
+}
+.Download-app-box {
+    width: 210px;
+    height: 48px;
+    padding-left: -50px;
+    background-color: rgb(86, 86, 218);
+    text-align: center;
+    border-radius: 2px;
+    margin-top: -18px;
+   
+}
+.Download-app {
+    font-family: "Montserrat", sans-serif;
+    color: #FFFFFF;
+     border: none;
+     background-color: rgb(86, 86, 218);
+     margin-top: 12px;
+     font-weight: 700;
+     font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0px;   
+}
+.Group-4-iphoneXS {
+    display: flex;
+    /* justify-content: space-between; */
+    padding: 30px 0rem 59px 13rem;
+}
+.Group-4 {
+    padding-right: 200px;
+}
+.Urano {
+    /* width: 690px;
+    height: 144px; */
+    margin-top: 135px;
+    color: #0B162B;
+    font-family: "Montserrat", sans-serif;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 72px;
+    letter-spacing: 0px;   
+}
+.Revolutionizing {
+    margin-top: 20px;
+    font-family: "PT Serif", serif;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    color: #0B162B;
+    padding-bottom: 30px;
+}
+.iphoneXS {
+    margin-right: 270px;
+}
+.google-apple {
+    display: flex;
+}
+.apple {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+
+.Lorem-box {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 13rem 120px 13rem;
+    
+
+}
+.Lorem {
+    color: #0B162B;
+    font-family: "Montserrat", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0px;
+    margin-bottom: 15px;   
+}
+.break-line-image {
+    width: 210px;
+}
+.Nunc {
+    display: block;
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: "PT Serif", serif;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #0B162B;
+    opacity: 50%;
+}
+
+
+.interger-sec {
+    width: 100%;
+    height: 530px;
+    background-color: #0B162B;
+    /* rgb(3, 3, 46); */
+    /* background-image: url("asset/Rectangle (2).png"); */
+    /* background-repeat: no-repeat; */
+}
+.interger-box {
+    padding: 130px 0px 0px 13rem;
+    /* background-color: rgb(3, 3, 58); */
+    
+}
+.interger {
+     font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+/* leading-trim: NONE; */
+    line-height: 60px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+    /* padding-top: 7rem; */
+
+
+}
+.porta {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-size: 18px;
+    /* leading-trim: NONE; */
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 50%;
+    display: inline-block;
+    margin-bottom: 30px;
+    padding-right: 900px;
+
+}
+.Download-gpp-box {
+    width: 331px;
+    height: 60px;
+    background-color: rgb(86, 86, 218);
+    text-align: center;
+    border-radius: 2px;
+   
+}
+.Download-gpp {
+    font-family: "Montserrat", sans-serif;
+    color: #FFFFFF;
+     border: none;
+     background-color: rgb(86, 86, 218);
+     margin-top: 20px;
+     font-weight: 700;
+     font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0px; 
+    cursor: pointer; 
+}
+
+/*the video section starts here */
+
+.video-sec {
+    background-image: url("asset/Video.png");
+    width: 100%;
+    height: 798px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+/* .play {
+    display: inline-block;
+    margin-top: 350px;
+    margin-left: 57rem;
+} */
+.interge {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+/* leading-trim: NONE; */
+    line-height: 60px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+    /* margin-top: 100px; */
+    margin-left: 13rem;
+    padding-top: 560px;
+    /* padding-top: 7rem; */
+
+
+}
+.portal {
+    margin-left: 13rem;
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-size: 18px;
+    /* leading-trim: NONE; */
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 50%;
+    display: inline-block;
+    /* margin-bottom: 30px; */
+}
+/*the video section ends here */
+
+.another-iphone-sec {
+    margin-top: 4.5rem;
+   display: flex;
+   justify-content: space-between; 
+   padding: 100px 13rem 120px 13rem;
+}
+.non-english, .non-english2 {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Lorem2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #0B162B;
+    text-align: center;
+    margin-top: 20px;
+}
+.lectus {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-size: 18px;
+    /* leading-trim: NONE; */
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #0B162B;
+    opacity: 50%;
+    display: inline-block;
+    /* margin-bottom: 30px; */
+    text-align: center;
+}
+
+
+.last-sec {
+    width: 100%;
+    height: 947px;
+    background-color: #0B162B;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.get-started-last {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-align: center; 
+    padding-top: 150px;
+}
+.consectetur {
+    font-family: "PT Serif", serif;
+    font-weight: lighter;
+    font-size: 22px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #fffdfd;
+}
+.Download-gpd-box {
+    width: 450px;
+    height: 60px;
+    background-color: rgb(86, 86, 218);
+    text-align: center;
+    border-radius: 2px;
+    margin-top: 35px;
+    margin-left: 550px;
+   
+}
+.Download-gpd {
+    font-family: "Montserrat", sans-serif;
+    color: #FFFFFF;
+    border: none;
+    background-color: rgb(86, 86, 218);
+    margin-top: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0px; 
+    cursor: pointer; 
+}
+.rectangle {
+    display: inline-block;
+    width: 1410px;
+    height: 1px;
+    opacity: 0.2px;
+}
+.last-link {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    /* align-content: space-between; */
+}
+ul li {
+    list-style-type: none;
+}
+li {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-size: 18px;
+/* leading-trim: NONE; */
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: center;
+    /* color: rgba(140, 144, 144, 0.967); */
+    color: #FFFFFF;
+    opacity: 45%;
+    margin-left: 50px; 
+    margin-right: 60px;
+}
+.last-icon {
+    /* width: 209.45758056640625px;
+    height: 30px; */
+    opacity: 30%;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.fac-icon {
+    width: 15px;
+    height: 30px;
+}
+.lin-icon {
+    width: 28.7px;
+    height: 28.7px;
+}
+.twi-icon {
+    width: 28.8px;
+    height: 23.81px;
+}
+.gog-icon {
+    width: 36px;
+    height: 23px;
+}
+.fac-icon, .lin-icon, .twi-icon, .gog-icon {
+    display: inline-block;
+    margin-top: 50px;
+    margin: 15px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+
+}
+.kidben {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+@media screen and (max-width:720px) {
+    body {background-color: rgb(153, 122, 195);}
+    .nav-sec {
+        width: 80%;
+        justify-content: space-around;
+        padding: 57px 2rem 10px 2rem;
+    }
+    .Download-app-box {
+        margin-left: 2rem;
+    }
+    .Group-4-iphoneXS {
+        flex-direction: column;
+        padding: 0px 2rem 59px 2rem;
+    }
+    .Group-4 {
+    padding-right: 0px;
+    }
+    .Urano {
+    margin-top: 15px;  
+    }
+    .iphoneXS {
+    margin-right: 0px;
+    margin-top: 3rem;
+    }
+    .google-apple {
+        width: 200px;
+        flex-direction: column;
+    }
+    .apple {
+    display: inline-block;
+    margin-left: 0px;
+    margin-top: 15px;
+    }
+    .Lorem-box {
+        flex-direction: column;
+        padding: 2rem 2rem 3rem 2rem;
+    }
+    .Lorem {
+        margin-top: 2rem;
+    }
+    .interger-sec {
+
+    }
+    .interger-box {
+    padding: 20px 0px 0px 2rem;
+    }
+    .porta {
+        padding-right: 0px;
+    }
+    .video-sec {
+        height: 500px;
+    }
+    .interge {
+        margin-left: 2rem;
+        padding-top: 60px;
+    }
+    .portal {
+        margin-left: 2rem;
+    }
+    .another-iphone-sec {
+        margin-top: 1.5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; 
+        padding: 50px 2rem 50px 2rem;
+    }
+    .iphone2 {
+        width: 300px;
+    }
+    .non-english, .non-english2  {
+        margin-top: 2rem;
+    }
+    .pencil, .contrast, .palette, .drag {
+        margin-bottom: 2rem;
+    }
+    .Download-gpd-box {
+         margin-left: 2rem;
+         width: 300px;
+    }
+    .rectangle {
+        width: 300px;
+    }
+    .last-link {
+        /* flex-direction: column; */
+        align-items: flex-start;
+        justify-content: flex-start;
+        margin-left: -4.5rem;
+    }
+    .about {
+        margin-left: -7rem;
+    }
+    .sales {
+        margin-left: -6.5rem;
+    }
+    .open_source {
+        margin-left: 10px;
+    }
+}
+   
